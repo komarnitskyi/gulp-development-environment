@@ -2,7 +2,10 @@
   "name": "setup-dev-env",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT",
+	"license": "MIT",
+	"scripts": {
+		"start": "gulp"
+	},
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-preset-es2015-rollup": "^3.0.0",
